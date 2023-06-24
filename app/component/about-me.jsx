@@ -1,6 +1,5 @@
 import React, {useId} from "react";
 import Skills from "./skills";
-import { skills } from "@/data/page-data";
 
 const AboutMe = ({ data, skills }) => {
   const { title, body } = data;
