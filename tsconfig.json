@@ -23,6 +23,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.jsx", "data/page-data.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.jsx", "data/page-data.jsx", "app/component/skills.jsx", "app/component/sidebar.jsx", "app/component/professional-experience.jsx", "app/component/about-me.jsx"],
   "exclude": ["node_modules"]
 }
