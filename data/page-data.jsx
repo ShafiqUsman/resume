@@ -2,13 +2,14 @@ export const personalData = {
 	name: "Muhammad Shafiq",
 	role: "Software Engineer / Senior Accountant",
 	education: [        
+		"Certified AI, Metaverse, and Web 3.0 Developer & Solopreneur (WMD)",
+		"Java Programing Language Module II from Operation Badar (2004)",
+		"One Year Computer Diploma (2000)",
         "B.Com, S.M. Arts & Commerce College (1998-2000)",
 		"FSC in Pre-Engineering, SM Science College (1995-1997)",
 		
 	],
     technicalSkills: [
-        "One Year Computer Diploma (2000)",
-        "Java Programing Language Module II from Operation Badar (2004)"
     ],
 	contactLinks: [
 		"mailto:mshafiqusman7@gmail.com",
