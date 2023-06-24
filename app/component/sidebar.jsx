@@ -17,8 +17,8 @@ const Sidebar = ({ data }) => {
         />
         <h1 className="mb-2">{name}</h1>
         <h2 className="mb-8">{role}</h2>
-        {education.map((item) => (
-          <p className="mb-2">{item}</p>
+        {education.map((item, i) => (
+          <p key={i} className="mb-2">{item}</p>
         ))}
 
         <div className="text-white text-center mb-4 mt-4 sm:mt-8">
