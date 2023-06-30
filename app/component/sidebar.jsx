@@ -13,7 +13,7 @@ const Sidebar = ({ data }) => {
           height={300}
           src="/shafiq_pic3.jpg"
           alt="Shafiq profile pic"
-          className="rounded-full h-full mb-6 "
+          className="rounded-full h-full mb-6 mt-[80px]"
         />
         <h1 className="mb-2">{name}</h1>
         <h2 className="mb-8">{role}</h2>
